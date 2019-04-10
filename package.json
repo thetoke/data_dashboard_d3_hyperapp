@@ -1,0 +1,33 @@
+{
+    "name": "IKK",
+    "version": "0.1.0",
+    "description": "IKK Dashboard Frontend",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel serve index.html --port 80",
+        "build": "parcel build index.html"
+    },
+    "keywords": [],
+    "author": "Darek Nyckowiak",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.1.6",
+        "@babel/preset-env": "^7.1.6",
+        "cssnano": "^4.1.7",
+        "later": "^1.2.0",
+        "sass": "^1.15.1"
+    },
+    "dependencies": {
+        "@babel/plugin-transform-react-jsx": "^7.1.6",
+        "@hyperapp/router": "^0.4.1",
+        "d3": "^5.7.0",
+        "d3-svg": "^0.2.2",
+        "hyperapp": "^1.0.1",
+        "hyperapp-axios": "^0.1.11",
+        "hyperapp-render": "^3.0.0",
+        "picostyle": "^2.1.1",
+        "resize-observer-polyfill": "^1.5.1",
+        "tiny-picker": "^4.1.2",
+        "utils": "^0.3.1"
+    }
+}

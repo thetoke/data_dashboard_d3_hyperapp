@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Symbols-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component/Card/Metric-with-Icon" transform="translate(-198.000000, -38.000000)">
+            <g transform="translate(0.000000, 17.000000)" id="Icon-Circle">
+                <g transform="translate(198.000000, 21.000000)">
+                    <g id="Group">
+                        <g id="Oval" opacity="0.149999991">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use fill="#FF5454" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M29.8910889,18 L21.6969016,18 C21.08445,18 20.5879905,18.4964597 20.5879905,19.1089115 C20.5879905,19.7213633 21.08445,20.2178229 21.6969016,20.2178229 L27.2139004,20.2178229 L18.3248139,29.1069682 C17.8917287,29.5400535 17.8917287,30.2421608 18.3248139,30.6751908 C18.7578437,31.1082207 19.4599507,31.1082761 19.8930359,30.6751908 L28.7821779,21.7860455 L28.7821779,27.3030464 C28.7821779,27.9154982 29.2786374,28.4119579 29.8910889,28.4119579 C30.5035405,28.4119579 31,27.9154982 31,27.3030464 L31,19.1089115 C31,18.5053864 30.5095286,18 29.8910889,18 Z" id="Shape" fill="#E84A50" fill-rule="nonzero" transform="translate(24.500000, 24.499992) scale(1, -1) translate(-24.500000, -24.499992) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

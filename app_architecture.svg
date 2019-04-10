@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="755px" height="612px" viewBox="0 0 755 612" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="755" height="612"></rect>
+        <g id="Group-Copy-2" transform="translate(19.000000, 79.000000)">
+            <rect id="Rectangle" stroke="#8C54FF" stroke-width="4" x="2" y="2" width="705" height="505" rx="8"></rect>
+            <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                <text id="Fleet-activity-map">
+                    <tspan x="0" y="12" fill="#2E384D">LAYOUT</tspan>
+                    <tspan x="55.379998" y="12" fill="#8798AD"> </tspan>
+                    <tspan x="0" y="27" fill="#8798AD">HTML TEMPLATE</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-Copy-3" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle" stroke="#2E5BFF" stroke-width="4" x="2" y="2" width="744" height="599" rx="8"></rect>
+            <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                <text id="Fleet-activity-map">
+                    <tspan x="0" y="12" fill="#2E384D">PAGE</tspan>
+                    <tspan x="37.873332" y="12" fill="#8798AD"> </tspan>
+                    <tspan x="0" y="27" fill="#8798AD">JS</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(36.000000, 158.000000)">
+            <g id="Group-Copy">
+                <rect id="Rectangle" stroke="#00C1D4" stroke-width="4" x="2" y="2" width="324" height="193" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">BLOCK</tspan>
+                        <tspan x="46.964665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">HTML TEMPLATE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(16.000000, 93.000000)">
+                <rect id="Rectangle" stroke="#F7C137" stroke-width="4" x="2" y="2" width="291" height="83" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">GRAPH</tspan>
+                        <tspan x="49.668665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">D3.JS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2-Copy" transform="translate(378.000000, 157.000000)">
+            <g id="Group-Copy">
+                <rect id="Rectangle" stroke="#00C1D4" stroke-width="4" x="2" y="2" width="324" height="193" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">BLOCK</tspan>
+                        <tspan x="46.964665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">HTML TEMPLATE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(16.000000, 93.000000)">
+                <rect id="Rectangle" stroke="#F7C137" stroke-width="4" x="2" y="2" width="291" height="83" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">GRAPH</tspan>
+                        <tspan x="49.668665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">D3.JS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2-Copy-2" transform="translate(36.000000, 372.000000)">
+            <g id="Group-Copy">
+                <rect id="Rectangle" stroke="#00C1D4" stroke-width="4" x="2" y="2" width="324" height="193" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">BLOCK</tspan>
+                        <tspan x="46.964665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">HTML TEMPLATE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(16.000000, 93.000000)">
+                <rect id="Rectangle" stroke="#F7C137" stroke-width="4" x="2" y="2" width="291" height="83" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">GRAPH</tspan>
+                        <tspan x="49.668665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">D3.JS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2-Copy-3" transform="translate(378.000000, 372.000000)">
+            <g id="Group-Copy">
+                <rect id="Rectangle" stroke="#00C1D4" stroke-width="4" x="2" y="2" width="324" height="193" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">BLOCK</tspan>
+                        <tspan x="46.964665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">HTML TEMPLATE</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(16.000000, 93.000000)">
+                <rect id="Rectangle" stroke="#F7C137" stroke-width="4" x="2" y="2" width="291" height="83" rx="8"></rect>
+                <g id="Top-Bar" transform="translate(16.000000, 16.000000)" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                    <text id="Fleet-activity-map">
+                        <tspan x="0" y="12" fill="#2E384D">GRAPH</tspan>
+                        <tspan x="49.668665" y="12" fill="#8798AD"> </tspan>
+                        <tspan x="0" y="27" fill="#8798AD">D3.JS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

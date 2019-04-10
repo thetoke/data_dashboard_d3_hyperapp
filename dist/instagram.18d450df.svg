@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram (3)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-–-Uber" transform="translate(-673.000000, -496.000000)" fill="#8798AD">
+            <g id="instagram-(3)" transform="translate(673.000000, 496.000000)">
+                <path d="M13.75,0 L6.25,0 C2.79875,0 0,2.79875 0,6.25 L0,13.75 C0,17.20125 2.79875,20 6.25,20 L13.75,20 C17.20125,20 20,17.20125 20,13.75 L20,6.25 C20,2.79875 17.20125,0 13.75,0 Z M18.125,13.75 C18.125,16.1625 16.1625,18.125 13.75,18.125 L6.25,18.125 C3.8375,18.125 1.875,16.1625 1.875,13.75 L1.875,6.25 C1.875,3.8375 3.8375,1.875 6.25,1.875 L13.75,1.875 C16.1625,1.875 18.125,3.8375 18.125,6.25 L18.125,13.75 Z" id="Shape" fill-rule="nonzero"></path>
+                <path d="M10,4.5 C6.962625,4.5 4.5,6.962625 4.5,10 C4.5,13.037375 6.962625,15.5 10,15.5 C13.037375,15.5 15.5,13.037375 15.5,10 C15.5,6.962625 13.037375,4.5 10,4.5 Z M10,13.4375 C8.10525,13.4375 6.5625,11.89475 6.5625,10 C6.5625,8.103875 8.10525,6.5625 10,6.5625 C11.89475,6.5625 13.4375,8.103875 13.4375,10 C13.4375,11.89475 11.89475,13.4375 10,13.4375 Z" id="Shape" fill-rule="nonzero"></path>
+                <circle id="Oval" cx="15.5" cy="4.5" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
