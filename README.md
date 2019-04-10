@@ -1,4 +1,4 @@
-# IKK Dashboard
+# Data Dashboard
 
 Modular Marketing Dashboard Web Application Front-End<br/>
 Stack: ES6/d3.js/Hyperapp.js/Picostyle/Parcel
@@ -30,7 +30,7 @@ $ sudo npm start
 Clone Repository:
 
 ```sh
-$ git clone <https://git.c3.co/c3mi/ikk-dashboard_frontend_js.git>
+$ git clone <repo>
 ```
 
 Start server:
