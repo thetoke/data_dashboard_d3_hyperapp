@@ -63,56 +63,8 @@ APP ← PAGE ← LAYOUT ← BLOCK ← GRAPH <br/><br/>
 
 <br/>
 
-components<br/>
--- blocks<br/>
----- BlockLine<br/>
----- BlockLineComparative<br/>
----- BlockBar<br/>
----- BlockBarGrouped<br/>
----- BlockCircular<br/>
----- BlockValue<br/>
----- BlockValueEmpty<br/>
----- BlockList<br/>
----- BlockSubmenuItem<br/>
--- form<br/>
----- FormInput<br/>
----- FormInputPassword<br/>
----- FormDatePicker<br/>
----- FormDropdown<br/>
--- graphs<br/>
----- GraphLine<br/>
----- GraphLineComparative<br/>
----- GraphBar<br/>
----- GraphCircular<br/>
----- GraphBarGrouped<br/>
----- GraphLineMultiple<br/>
--- layouts<br/>
----- LayoutAnalyseFacebook<br/>
----- LayoutAnalyseInstagram<br/>
----- LayoutAnalyseYouTube<br/>
----- LayoutAnalyseSea<br/>
----- LayoutAnalyseNative<br/>
----- LayoutLogin<br/>
----- LayoutRegister<br/>
----- LayoutSummary<br/>
----- LayoutUberblick<br/>
--- navigation<br/>
----- NavigationBar<br/>
----- SubNavigationBar<br/>
--- themes<br/>
----- ThemeLight<br/>
----- ThemeDark<br/>
-pages<br/>
--- Login<br/>
--- Register<br/>
--- Analyse<br/>
--- Uberblick<br/>
--- Summary<br/>
-service<br/>
--- ResizeManager<br/>
-
 
 ## Author
 
 Darek Nyckowiak<br/>
-darek.nyckowiak@c3.co
+darek@nyckowiak.com
