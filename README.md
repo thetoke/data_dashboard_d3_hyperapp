@@ -3,6 +3,8 @@
 Modular Marketing Dashboard Web Application Front-End<br/>
 Stack: ES6/d3.js/Hyperapp.js/Picostyle/Parcel
 
+http://nyckowiak.berlin/opensource/dashboard2.mp4
+
 ![Screenshot](screenshot.png)
 
 
